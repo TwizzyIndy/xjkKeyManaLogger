@@ -1,0 +1,13 @@
+LIBRARY xjkKeyMana
+EXPORTS
+xjkOpenKey @1
+xjkOpenKeyEx @2
+xjkCloseKey @3
+xjkReadSector @4
+xjkReadCluster @5
+xjkWriteSector @6
+xjkWriteCluster @7
+xjkChangePwd @8
+xjkGetSerial @9
+xjkGetSectors @10
+xjkGetClusters @11
